@@ -1,5 +1,7 @@
 # Spark for Java: Resilient Distributed DataSet (RDD)
 
+See this Udemy course: https://www.udemy.com/course/apache-spark-for-java-developers
+
 ## 1. Introduction
 
 **Resilient Distributed Dataset (RDD)** is the fundamental data structure in Apache Spark
